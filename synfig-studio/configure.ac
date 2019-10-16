@@ -18,7 +18,7 @@ AM_MAINTAINER_MODE
 LT_INIT([dlopen, win32-dll, disable-static])
 AC_SUBST(LIBTOOL_DEPS)
 
-AC_CONFIG_MACRO_DIRS([m4])
+#AC_CONFIG_MACRO_DIRS([m4])
 
 # -- V A R I A B L E S ----------------------------------------
 
